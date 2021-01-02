@@ -49,8 +49,8 @@
 
 <h3> For using the project clone the repository and type the following commands in the terminal: </h3>
 <ul>
-'$ set FLASK_APP= app.py'
-'$ flask run'
+    $ set FLASK_APP= app.py
+    $ flask run
 </ul>
   
 <hr>
@@ -58,6 +58,4 @@
 <p> <b>If you want to view the deployed model, click on the following link:
 Deployed at: </b> https://healthcare-app-ml.herokuapp.com/ </p>
 <p> <b> Please do ⭐ the repository, if it helped you in anyway.</b> </p>
-<p> Thank You! </p>
-
-
+<p> Thank You! 😊 </p>
