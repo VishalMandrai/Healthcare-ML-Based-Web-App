@@ -53,7 +53,6 @@
   
 <hr>
 
-<p> <b>If you want to view the deployed model, click on the following link:
-Deployed at: </b> https://healthcare-app-ml.herokuapp.com/ </p>
+<p> <b>If you want to view the deployed model, click on the following link: </b> https://healthcare-app-ml.herokuapp.com/ </p>
 <p> <b> Please do ⭐ the repository, if it helped you in anyway.</b> </p>
 <p> <b> Thank You! 😊 </b> </p>
