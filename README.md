@@ -38,7 +38,6 @@
 <ul>
 <li><p><b>Python ( 3.7 version)</b></p></li>
 <li><p><b>Flask</b></p></li>
-<li><p><b>OpenCV</b></p></li>
 <li><p><b>Pandas</b></p></li>
 <li><p><b>Numpy</b></p></li>
 <li><p><b>HTML</b></p></li>
