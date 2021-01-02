@@ -48,10 +48,9 @@
 <hr>
 
 <h3> For using the project clone the repository and type the following commands in the terminal: </h3>
-<ul>
-    $ set FLASK_APP= app.py
-    $ flask run
-</ul>
+                
+                $ set FLASK_APP= app.py
+                $ flask run 
   
 <hr>
 
