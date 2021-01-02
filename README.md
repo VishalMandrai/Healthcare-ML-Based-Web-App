@@ -1,4 +1,6 @@
-<div align=”center”><h1> HEALTHCARE<strong>+</strong></h1></div>
+<div align=”center”>
+ <h1> HEALTHCARE<strong>+</strong> : ML Based Web App</h1>
+</div>
 
 ![healthcare-title](https://user-images.githubusercontent.com/72686156/103456924-c8e9f480-4d20-11eb-8bd4-ba9abc5ccffe.jpg)
 
