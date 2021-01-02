@@ -4,23 +4,23 @@
 
 ![healthcare-title](https://user-images.githubusercontent.com/72686156/103456924-c8e9f480-4d20-11eb-8bd4-ba9abc5ccffe.jpg)
 
-<p> A disease predicting web application, which make use of machine learning in order to make predictions about various diseases like Breast Cancer, Diabetes, Heart disease, Liver disease etc.</p>
+<p><h3>A disease predicting web application, which make use of machine learning in order to make predictions about various diseases like Breast Cancer, Diabetes, Heart disease, Liver disease etc.</h3></p>
+
+<hr>
 
 ![healthcare-ss jpg](https://user-images.githubusercontent.com/72686156/103457175-d0aa9880-4d22-11eb-934e-34aeb721652c.png)
 
 <hr>
 
-<h3> Down below are the names of the various model files used:</h3>
+<h3> Different model files used for development are:</h3>
 <ul>
-<li><p><b>Cancer model = model</b></p></li>
-<li><p><b>Diabetes model = model1</b></p></li>
-<li><p><b>Heart model = model2</b></p></li>
-<li><p><b>Liver model = model4</b></p></li>
-<li><p><b>Kidney model = model3</b></p></li>
-
-<li><p><b>Malaria model = model111.h5</b></p></li>
-<li><p><b>Pneumonia model = my_model.h5</b></p></li>
+<li><p><b>Cancer model = Cancer Notebook.py</b></p></li>
+<li><p><b>Diabetes model = Diabetes Notebook.py</b></p></li>
+<li><p><b>Heart model = Heart Notebook.py</b></p></li>
+<li><p><b>Kidney model = Kidney Notebook.py</b></p></li>
+<li><p><b>Liver model = Liver Notebook.py</b></p></li>
 </ul>
+
 <hr>
 
 <h3> Kernals used for training deep learning model </h3>
