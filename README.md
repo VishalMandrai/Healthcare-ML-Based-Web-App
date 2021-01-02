@@ -1,13 +1,15 @@
 <div align=”center”>
- <h1> HEALTHCARE<strong>+</strong> : ML Based Web App</h1>
+<h1> HEALTHCARE<strong>+</strong> : ML Based Web App</h1>
 </div>
 
 ![healthcare-title](https://user-images.githubusercontent.com/72686156/103456924-c8e9f480-4d20-11eb-8bd4-ba9abc5ccffe.jpg)
 
-<p> This is one of major project of my undergraduate degree program.</p>
-<p>Here, I have developed a disease predicting web app which using the concept of machine learning makes predictions about various diseases like Malaria, Pneumonia, Diabetes etc.</p>
+<p> A disease predicting web application, which make use of machine learning in order to make predictions about various diseases like Breast Cancer, Diabetes, Heart disease, Liver disease etc.</p>
+
+![healthcare-ss jpg](https://user-images.githubusercontent.com/72686156/103457175-d0aa9880-4d22-11eb-934e-34aeb721652c.png)
 
 <hr>
+
 <h3> Down below are the names of the various model files used:</h3>
 <ul>
 <li><p><b>Cancer model = model</b></p></li>
